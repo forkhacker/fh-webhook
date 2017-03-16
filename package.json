@@ -1,0 +1,19 @@
+{
+  "name": "fh-webhook",
+  "version": "1.0.0",
+  "description": "github webhook handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kumar uttpal",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "bluebird": "^3.5.0",
+    "config": "^1.25.1",
+    "githubhook": "^1.7.1",
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.1"
+  }
+}
