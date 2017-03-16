@@ -5,4 +5,7 @@ module.exports = {
     FORK_QUEUE_NAME: 'fork',
     PULL_QUEUE_NAME: 'pull',
   },
+  GITHUB: {
+    WEBHOOKSECRET: 'someSecret',
+  },
 };
